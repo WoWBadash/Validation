@@ -1,0 +1,29 @@
+
+Log Entry : 10:26:55 AM Monday, January 20, 2014
+  :Error Occured..Object reference not set to an instance of an object.:    at Falcon_Validation.frmUpdateSerial.frmUpdateSerial_Load(Object sender, EventArgs e) in c:\Users\Anil.Alla\Desktop\Alpine Latest\Falcon Alpine Line\Falcon Validation\frmUpdateSerial.cs:line 132
+-------------------------------
+
+Log Entry : 10:29:07 AM Monday, January 20, 2014
+  :Error Occured..Object reference not set to an instance of an object.:    at Falcon_Validation.frmUpdateSerial.frmUpdateSerial_Load(Object sender, EventArgs e) in c:\Users\Anil.Alla\Desktop\Alpine Latest\Falcon Alpine Line\Falcon Validation\frmUpdateSerial.cs:line 132
+-------------------------------
+
+Log Entry : 10:32:39 AM Monday, January 20, 2014
+  :Error Occured..Object reference not set to an instance of an object.:    at Falcon_Validation.frmUpdateSerial.frmUpdateSerial_Load(Object sender, EventArgs e) in c:\Users\Anil.Alla\Desktop\Alpine Latest\Falcon Alpine Line\Falcon Validation\frmUpdateSerial.cs:line 132
+-------------------------------
+
+Log Entry : 10:32:45 AM Monday, January 20, 2014
+  :Error Occured..Object reference not set to an instance of an object.:    at Falcon_Validation.frmUpdateSerial.frmUpdateSerial_Load(Object sender, EventArgs e) in c:\Users\Anil.Alla\Desktop\Alpine Latest\Falcon Alpine Line\Falcon Validation\frmUpdateSerial.cs:line 132
+-------------------------------
+
+Log Entry : 10:32:49 AM Monday, January 20, 2014
+  :Error Occured..The ConnectionString property has not been initialized.:    at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Falcon_Validation.frmUpdateSerial.UpdateSerialContainer(String AsmNo) in c:\Users\Anil.Alla\Desktop\Alpine Latest\Falcon Alpine Line\Falcon Validation\frmUpdateSerial.cs:line 171
+-------------------------------
+
+Log Entry : 9:50:52 AM Tuesday, January 21, 2014
+  :Error Occured..Object reference not set to an instance of an object.:    at Falcon_Validation.frmUpdateSerial.frmUpdateSerial_Load(Object sender, EventArgs e) in c:\Users\Anil.Alla\Desktop\Alpine Latest\Falcon Alpine Line\Falcon Validation\frmUpdateSerial.cs:line 132
+-------------------------------
